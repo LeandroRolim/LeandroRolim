@@ -16,9 +16,9 @@
 ## 👋 Sobre
 
 Trabalho com backend em **Laravel/PHP**, containers e cloud (AWS/EKS), além de
-automações e **agentes de IA** com [opencode](https://opencode.ai).
+automações e agentes de IA.
 
-- 🔭 Hoje: ferramentas e agentes de IA ([ai-configs](https://github.com/LeandroRolim/ai-configs), [obsidian-ai](https://github.com/LeandroRolim/obsidian-ai))
+- 🔭 Hoje: backend Laravel e automações com agentes de IA
 - 💼 [LR Consultoria](https://lrconsultoria.tec.br)
 - 📍 Governador Nunes Freire, MA — Brasil
 
@@ -26,11 +26,12 @@ automações e **agentes de IA** com [opencode](https://opencode.ai).
 
 | Projeto | Descrição |
 |---|---|
-| [ai-configs](https://github.com/LeandroRolim/ai-configs) | Skills, agents e utilitários para agentes de IA |
-| [my-opencode-config](https://github.com/LeandroRolim/my-opencode-config) | Plugin `opencode-synced` |
-| [obsidian-ai](https://github.com/LeandroRolim/obsidian-ai) | Base de conhecimento usada no opencode |
-| [truques-laravel](https://github.com/LeandroRolim/truques-laravel) | Exemplos de reaproveitamento de código em Laravel |
+| [paper-saas](https://github.com/LeandroRolim/paper-saas) | SaaS multi-tenant em Laravel |
+| [AuthMultiTenant](https://github.com/LeandroRolim/AuthMultiTenant) | Serviço de tokens PASETO para sistemas multi-tenant |
 | [laravel-pocs](https://github.com/LeandroRolim/laravel-pocs) | POCs em Laravel para arquitetura arm64v8 |
+| [test-nest](https://github.com/LeandroRolim/test-nest) | POC de API em NestJS |
+| [mine_bot](https://github.com/LeandroRolim/mine_bot) | Bot em Go |
+| [IntegrarPagSeguroTransparente](https://github.com/LeandroRolim/IntegrarPagSeguroTransparente) | Checkout transparente PagSeguro em Laravel |
 
 ## 📫 Contato
 
